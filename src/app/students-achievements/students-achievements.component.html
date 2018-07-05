@@ -1,0 +1,26 @@
+<section id="intro" class="section intro">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>Students Achievements</h3>
+    </div>
+  </div>
+</section>
+
+<section id="teamsss" class="section teamsss">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6" *ngFor="let a of achievements">
+        <div class="person">
+          <img src="../../assets/images/achievements/{{ a.image }}" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>{{ a.name }}</h4>
+            <h5 class="role">{{ a.place }}</h5>
+            <p>{{ a.achievement }}</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

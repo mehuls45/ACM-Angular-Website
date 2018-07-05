@@ -1,0 +1,71 @@
+<section id="intro" class="section intro">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>CESA Core Team</h3>
+    </div>
+  </div>
+</section>
+
+<section id="teams" class="section teams">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6" *ngFor="let c of core">
+        <div class="person">
+          <img src="../../assets/images/core/{{c.image}}" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>{{ c.name }}</h4>
+            <h5 class="role">{{ c.role }}</h5>
+          </div>
+        </div>
+      </div>
+
+<!--       <div class="col-md-3 col-sm-6 col-md-offset-3">
+        <div class="person">
+          <img src="images/mehul.jpg" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>Mehul Solanki</h4>
+            <h5 class="role">Webmaster</h5>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-3 col-sm-6">
+        <div class="person">
+          <img src="images/aditya.jpg" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>Adityta Khadse</h4>
+            <h5 class="role">Webmaster</h5>
+          </div>
+        </div>
+      </div> -->
+
+    </div>
+  </div>
+</section>
+
+<section id="intro" class="section intro">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>The Cell Representatives</h3>
+    </div>
+  </div>
+</section>
+
+<section id="teams" class="section teams">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6" *ngFor="let c of cells"> 
+        <div class="person">
+          <img src="../../assets/images/cells/{{ c.image }}" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>{{ c.name }}</h4>
+            <h5 class="role">{{ c.role }}</h5>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

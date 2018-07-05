@@ -1,0 +1,138 @@
+{
+    "core" : [
+        {
+            "name" : "Dr.Sonali Patil",
+            "role" : "SDW COORDINATOR",
+            "image" : "sonali.jpg"
+        },
+        {
+            "name" : "Mr.Rahul Pitale",
+            "role" : "ACM FACULTY SPONSOR",
+            "image" : "rahul.jpg"
+        },
+        {
+            "name" : "Abhishek Gaikwad",
+            "role" : "PCCOE ACM CHAIR",
+            "image" : "abhishek.jpg"
+        },
+        {
+            "name" : "Neha Waghchaure",
+            "role" : "PCCOE ACM VICE CHAIR",
+            "image" : "neha.jpg"
+        },{
+            "name" : "Vaigavi Iyer",
+            "role" : "SECRETARY",
+            "image" : "vaigavi.jpg"
+        },{
+            "name" : "Simran Bandwal",
+            "role" : "CO-SECRETARY",
+            "image" : "simran.jpg"
+        },{
+            "name" : "Mrunal Bhosle",
+            "role" : "TREASURER",
+            "image" : "mrunal.jpg"
+        },{
+            "name" : "Ashitosh Dhapate",
+            "role" : "CO-TREASURER",
+            "image" : "ashitosh.jpg"
+        },{
+            "name" : "Mehul Solanki",
+            "role" : "WEBMASTER",
+            "image" : "mehul.jpg"
+        },{
+            "name" : "Adityta Khadse",
+            "role" : "WEBMASTER",
+            "image" : "aditya.jpg"
+        }
+    ],
+
+    "cells" : [
+        {
+            "name" : "Harshwardhan Patil",
+            "role" : "ART CIRCLE",
+            "image" : "harshwardhan.jpg"
+        },
+        {
+            "name" : "Amita Nilawar",
+            "role" : "ART CIRCLE",
+            "image" : "amita.jpg"
+        },{
+            "name" : "Aniket Wakde",
+            "role" : "ART CIRCLE",
+            "image" : "aniket.jpg"
+        },
+
+        {
+            "name" : "Ashitosh Dhapate",
+            "role" : "PDC",
+            "image" : "ashitosh.jpg"
+        },
+        {
+            "name" : "Bharati Kulkarni",
+            "role" : "PDC",
+            "image" : "bharati.jpg"
+        },{
+            "name" : "Rushikesh Phalke",
+            "role" : "PDC",
+            "image" : "rushikesh.jpg"
+        },
+
+        {
+            "name" : "Ashish Kulkarni",
+            "role" : "CPDC",
+            "image" : "ashish.jpg"
+        },{
+            "name" : "Alka Choudhary",
+            "role" : "CPDC",
+            "image" : "alka.jpg"
+        },
+
+        
+        {
+            "name" : "Dhanashree Jain",
+            "role" : "HIGHER STUDIES CELL",
+            "image" : "dhanashree.jpg"
+        },{
+            "name" : "Sanket Dhumane",
+            "role" : "HIGHER STUDIES CELL",
+            "image" : "sanket.jpg"
+        },
+
+        {
+            "name" : "Rutuja Mahadik",
+            "role" : "NSS CELL",
+            "image" : "rutuja.jpg"
+        },{
+            "name" : "Ashish Deshpande",
+            "role" : "NSS CELL",
+            "image" : "ashishdeshpande.jpg"
+        },
+        {
+            "name" : "Mrunal Marne",
+            "role" : "NSS CELL",
+            "image" : "individual.jpg"
+        },
+
+        {
+            "name" : "Sagar Rane",
+            "role" : "ISR CELL",
+            "image" : "sagar.jpg"
+        },
+
+        {
+            "name" : "Purvesh Shende",
+            "role" : "SPORTS CELL",
+            "image" : "purvesh.jpg"
+        },{
+            "name" : "Ashish Kulkarni",
+            "role" : "SPORTS CELL",
+            "image" : "ashish.jpg"
+        },
+        {
+            "name" : "Sagar Rane",
+            "role" : "GRIEVANCE CELL",
+            "image" : "sagar.jpg"
+        }
+
+    ]
+}

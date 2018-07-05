@@ -1,0 +1,38 @@
+{
+    "cells" : [
+        {
+            "name" : "Art Circle",
+            "moto" : "UNLEASH YOUR ARTISTIC SIDE",
+            "image" : "art.jpg"
+        },
+        {
+            "name" : "CPDC",
+            "moto" : "DEVELOP YOUR PERSONALITY",
+            "image" : "cpdc.jpg"
+        },{
+            "name" : "PDC",
+            "moto" : "IMPROVE YOUR PROFESSIONAL SKILLS",
+            "image" : "pdc.jpg"
+        },{
+            "name" : "NSS",
+            "moto" : "WORKS TOWARDS A BETTER SOCIETY",
+            "image" : "nss.jpg"
+        },{
+            "name" : "ISR",
+            "moto" : "INSTITUTION AS A SOCIAL PARADISE",
+            "image" : "isr.jpg"
+        },{
+            "name" : "Higher Studies Cell",
+            "moto" : "LEARNING NEVER STOPS",
+            "image" : "higher.jpg"
+        },{
+            "name" : "Sports Cell",
+            "moto" : "ENJOY A GOOD GAME",
+            "image" : "sports.jpg"
+        },{
+            "name" : "Grievances Cell",
+            "moto" : "SHARING IS CARING",
+            "image" : "art.jpg"
+        }
+    ]
+}

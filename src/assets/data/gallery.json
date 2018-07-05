@@ -1,0 +1,59 @@
+{
+    "induction" : [
+        "i1.jpg",
+        "i2.jpg",
+        "i3.jpg",
+        "i4.jpg"
+    ],
+    "esp" : [
+        "esp1.jpg",
+        "esp2.jpg",
+        "esp3.jpg",
+        "esp4.jpg"
+    ],
+    "pcl" : [
+        "pcl1.jpg",
+        "pcl2.jpg",
+        "pcl3.jpg",
+        "pcl4.jpg"
+    ],
+    "teachers-day" : [
+        "t1.jpg",
+        "t2.jpg",
+        "t3.jpg",
+        "t4.jpg"
+    ],
+    "anantya" : [
+        "a1.jpg",
+        "a2.jpg",
+        "a3.jpg",
+        "a4.jpg",
+        "a5.jpg",
+        "a6.jpg",
+        "a7.jpg",
+        "a8.jpg"
+    ],
+    "msp" : [
+        "cell1.jpg",
+        "msp1.jpg",
+        "msp2.jpg",
+        "msp3.jpg",
+        "msp4.jpg",
+        "msp5.jpg",
+        "msp6.jpg",
+        "msp7.jpg"
+    ],
+    "hofc" : [
+        "h1.jpg",
+        "h2.jpg",
+        "h3.jpg",
+        "h4.jpg"
+    ],
+    "acs" : [
+        "acs1.jpg",
+        "acs2.jpg",
+        "acs3.jpg",
+        "acs4.jpg"
+    ]
+
+}

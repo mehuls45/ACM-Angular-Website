@@ -1,0 +1,28 @@
+<section id="intro" class="section intro">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>Opportunities for students</h3>
+    </div>
+  </div>
+</section>
+
+<section id="services" class="section teamsss">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6" *ngFor="let o of opportunities">
+        <div class="persons" id="oppo">
+          <img src="../../assets/images/opportunities/{{ o.image }}" alt="" class="img-responsive">
+          <div class="persons-content">
+            <h4>{{ o.name }}</h4>
+            <h5 class="role"></h5>
+            <p>
+              <a href="{{ o.url }}" target="_blank">Learn more</a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

@@ -1,0 +1,76 @@
+{
+    "achievements" : [
+        {
+            "name" : "Darshit Patel",
+            "place" : "XRDS",
+            "achievement" : "Department Editor",
+            "image" : "darshit.jpg"
+        },
+        {
+            "name" : "Abdul Wasay",
+            "place" : "GOOGLE",
+            "achievement" : "Google Student Facilitator",
+            "image" : "abdul.jpg"
+        },
+        {
+            "name" : "Janhavi Dahihande",
+            "place" : "UNIVERSITY TOPPER",
+            "achievement" : "2nd position with 84%",
+            "image" : "janhavi.jpg"
+        },
+        {
+            "name" : "Kedar Bartakke",
+            "place" : "TOP SCRORER IN GRE",
+            "achievement" : "Scored 333 in GRE",
+            "image" : "kedar.jpg"
+        },
+        {
+            "name" : "Anamika Kumari",
+            "place" : "ADOBE",
+            "achievement" : "Selected with CTC of 11 lacs",
+            "image" : "anamika.jpg"
+        },
+        {
+            "name" : "Ankush Pathak",
+            "place" : "XRDS",
+            "achievement" : "Department Editor",
+            "image" : "ankush.jpg"
+        },
+        {
+            "name" : "Saransh Dave",
+            "place" : "NPTEL",
+            "achievement" : "TOC AIR 1",
+            "image" : "saransh.jpg"
+        },
+        {
+            "name" : "Prachi Tekawade",
+            "place" : "ACM-W LADY ADA",
+            "achievement" : "National Winner 2016",
+            "image" : "prachi.jpg"
+        },
+        {
+            "name" : "Shreya Joshi",
+            "place" : "ACM-W LADY ADA",
+            "achievement" : "National Winner 2017",
+            "image" : "shreya.jpg"
+        },
+        {
+            "name" : "Team HashBin",
+            "place" : "ACM ICPC",
+            "achievement" : "Qualified for Amritapuri and Gwalior Regionals",
+            "image" : "hash_bin.jpg"
+        },
+        {
+            "name" : "Team Sudoers",
+            "place" : "ACM ICPC",
+            "achievement" : "Qualified for Chennai Regionals",
+            "image" : "su_doers.jpg"
+        },
+        {
+            "name" : "Team Code-Reactors",
+            "place" : "ACM ICPC",
+            "achievement" : "Qualified for Kanpur Regionals",
+            "image" : "pra_b.jpg"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+<section id="intro" class="section intro">
+  <div class="container">
+    <div class="col-md-8 col-md-offset-2 text-center">
+      <h3>About The Cells</h3>
+      <br>
+      <h5>At PCCOE we believe that Engineering and Co-curricular activities are both important for the development of the students
+        and so we encourage them all</h5>
+    </div>
+  </div>
+</section>
+
+<section id="teamss" class="section teamss">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-3 col-sm-6" *ngFor="let c of cells">
+        <div class="person">
+          <img src="../../assets/images/cell-logo/{{c.image}}" alt="" class="img-responsive">
+          <div class="person-content">
+            <h4>{{ c.name }}</h4>
+            <p>
+              <b>{{ c.moto }}</b>
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>

@@ -1,0 +1,60 @@
+{
+    "distinguished" : [
+        {
+            "name" : "Dr.Rudrapatna Shyamasundar",
+            "title": "Senior Professor, Tata Institute of Fundamental Research, India",
+            "topic": "Multicore Programming",
+            "image": "rudrapatna.png"
+        },
+        {
+            "name" : "Dr. Sanjay Madria",
+            "title": "Professor, Dept of Comp Engg, Missouri University of Science and Technology",
+            "topic": "Cloud Security",
+            "image": "sanjay.png"
+        }
+    ],
+    "eminent" : [
+        {
+            "name" : "Dr. Navin Kabra",
+            "title": "CTO, ReliScore.com",
+            "topic": "Difference between Student Programmers & Professional Programmers",
+            "image": "navin.png"
+        },
+        {
+            "name" : "Dr. Sachin Lodha",
+            "title": "Principal Scientist, TCS Innovation Labs, TRDDC, Pune",
+            "topic": "Fun with Algorithms",
+            "image": "sachin.png"
+        },
+        {
+            "name" : "Dr. R Venkateswaran",
+            "title": "Senior Vice President, Persistent Systems",
+            "topic": "Evolution of Internet: The Past, The Present, The Future",
+            "image": "venkateshwaran.png"
+        },
+        {
+            "name" : "Dr. Abhijat Vichare",
+            "title": "Independent Programmer and Consultant",
+            "topic": "Mathematical Modelling in Computer Science",
+            "image": "abhijat.png"
+        },
+        {
+            "name" : "Mr. Vivek Kulkarni",
+            "title": "Chief Architect, Persistent Systems",
+            "topic": "Theory of Computation",
+            "image": "vivek.png"
+        },
+        {
+            "name" : "Mr. Ajay Deshpande",
+            "title": "CTO, Rakya Technologies",
+            "topic": "SMAC Technologies and the Future",
+            "image": "ajay.png"
+        },
+        {
+            "name" : "Mr. Arun Bahulkar",
+            "title": "Chief Scientist, TCS Innovation Labs, TRDDC, Pune",
+            "topic": "Perspectives on Modelling Software and Systems",
+            "image": "arun.png"
+        }
+    ]
+}

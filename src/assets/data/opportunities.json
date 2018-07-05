@@ -1,0 +1,65 @@
+{
+    "opportunities" : [
+        {
+            "name" : "Google Summer of Code",
+            "url" : "https://summerofcode.withgoogle.com/",
+            "image" : "gsoc.jpg"
+        },
+        {
+            "name" : "ACM ICPC",
+            "url" : "https://icpc.baylor.edu/",
+            "image" : "acm.jpg"
+        },
+        {
+            "name" : "Lady Ada Coding",
+            "url" : "http://www.aicwic2017.com/",
+            "image" : "acmw.jpg"
+        },
+        {
+            "name" : "NPTEL",
+            "url" : "http://nptel.ac.in/",
+            "image" : "nptel.jpg"
+        },
+        {
+            "name" : "Smart India Hackathon",
+            "url" : "https://innovate.mygov.in/sih2018/",
+            "image" : "smart.jpg"
+        },
+        {
+            "name" : "IMAD",
+            "url" : "https://www.imad.tech/",
+            "image" : "imad.jpg"
+        },
+        {
+            "name" : "CodeChef",
+            "url" : "https://www.codechef.com/",
+            "image" : "codechef.jpg"
+        },
+        {
+            "name" : "HackerRank",
+            "url" : "https://www.hackerrank.com/",
+            "image" : "hackerrank.jpg"
+        },
+        {
+            "name" : "LeetCode",
+            "url" : "https://leetcode.com/",
+            "image" : "leetcode.jpg"
+        },
+        {
+            "name" : "Udacity",
+            "url" : "https://in.udacity.com/",
+            "image" : "udacity.jpg"
+        },
+        {
+            "name" : "Coursera",
+            "url" : "https://www.coursera.org/",
+            "image" : "coursera.jpg"
+        },
+        {
+            "name" : "InterviewBit",
+            "url" : "https://www.interviewbit.com/",
+            "image" : "interviewbit.jpg"
+        }
+
+    ]
+}
